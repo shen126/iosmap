@@ -1,8 +1,8 @@
 Package: com.local.googlemapsnoduck
-Name: GoogleMapsNoDuck
-Version: 0.1.0
+Name: GoogleMapsNoDuck + ShieldBoost
+Version: 0.2.0
 Architecture: iphoneos-arm
-Description: Stop Google Maps from lowering other audio (ducking) while speaking directions.
+Description: Google Maps no ducking; louder voice for Shield speed camera app.
 Maintainer: me
 Author: me
 Section: Tweaks
